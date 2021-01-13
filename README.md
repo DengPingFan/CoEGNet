@@ -4,12 +4,18 @@ Please refer to our homepage for more details: http://dpfan.net/CoSOD3K/
 ## Pipeline
 ![pipeline](https://github.com/DengPingFan/CoEGNet/blob/master/stage2/figure/pipeline.png)
 ## Stage 1
-### Environments (Caffe && Matlab)
+### 1.1 Environments (Caffe && Matlab)
 The caffe package is borrowed from https://github.com/BVLC/caffe
-### Pre-trained models in Caffe:
+### 1.2 Pre-trained models in Caffe:
 * VGG16 model on ImageNet: ```models/deploy_vgg16CAM.prototxt``` weights:[http://cnnlocalization.csail.mit.edu/demoCAM/models/vgg16CAM_train_iter_90000.caffemodel]
-### test
+### 1,3 test
 simple run ./stage1/demo.m, then we can obtain the initial cosal activations
+## Stage 2
+### 2.1 Prerequisite
+* Python 3.7, PyTorch 1.1.0
+### 2.2 test
+* python ./stage2/run_sample.py (Thanks for Ahn et al.'s implement, our postprocessing is inspired by [IRNET](https://github.com/jiwoon-ahn/irn))
+
 ## The results of CoEGNET 
 Baiduyun: https://pan.baidu.com/s/19hIlViLbby-a7vQw17ZTVw Fetchcode: f4p3
 
