@@ -8,7 +8,7 @@ Please refer to our homepage for more details: http://dpfan.net/CoSOD3K/
 The caffe package is borrowed from https://github.com/BVLC/caffe
 ### 1.2 Pre-trained models in Caffe:
 * VGG16 model on ImageNet: ```models/deploy_vgg16CAM.prototxt``` weights:[http://cnnlocalization.csail.mit.edu/demoCAM/models/vgg16CAM_train_iter_90000.caffemodel]
-### 1,3 test
+### 1.3 test
 * simple run ./stage1/demo.m, then we can obtain the initial cosal activations
 ## Stage 2
 ### 2.1 Prerequisite
