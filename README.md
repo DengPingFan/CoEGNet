@@ -2,7 +2,7 @@
 Code for "Re-thinking Co-Salient Object Detection" Submit to TPMAI2020
 Please refer to our homepage for more details: http://dpfan.net/CoSOD3K/
 ## Pipeline
-![pipeline](https://github.com/DengPingFan/CoEGNet/tree/master/stage2/figure/pipeline.png)
+![pipeline](https://github.com/DengPingFan/CoEGNet/blob/master/stage2/figure/pipeline.png)
 ## Stage 1
 ### Environments (Caffe && Matlab)
 The caffe package is borrowed from https://github.com/BVLC/caffe
