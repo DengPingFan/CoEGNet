@@ -19,3 +19,16 @@ The caffe package is borrowed from https://github.com/BVLC/caffe
 ## The results of CoEGNET 
 Baiduyun: https://pan.baidu.com/s/19hIlViLbby-a7vQw17ZTVw Fetchcode: f4p3
 
+
+## Citation
+If you use this code, please cite our paper:
+```
+@article{deng2020re,
+  title={Re-thinking co-salient object detection},
+  author={Deng-Ping, Fan and Tengpeng, Li and Zheng, Lin and Ge-Peng, Ji and Dingwen, Zhang and Ming-Ming, Cheng and Huazhu, Fu and Jianbing, Shen},
+  journal={arXiv preprint arXiv:2007.03380},
+  year={2020}
+}
+```
+
+
