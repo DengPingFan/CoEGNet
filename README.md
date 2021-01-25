@@ -19,6 +19,8 @@ The caffe package is borrowed from https://github.com/BVLC/caffe
 ## The results of CoEGNET 
 Baiduyun: https://pan.baidu.com/s/19hIlViLbby-a7vQw17ZTVw Fetchcode: f4p3
 
+Google Cloud: https://drive.google.com/file/d/1AK9UNR5mLHQakOTkRawcKSDg8YwIu-xJ/view?usp=sharing
+
 
 ## Citation
 If you use this code, please cite our paper:
