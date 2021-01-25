@@ -17,7 +17,7 @@ The caffe package is borrowed from https://github.com/BVLC/caffe
 * python ./stage2/run_sample.py (Thanks for Ahn et al.'s implement, our postprocessing is inspired by [IRNET](https://github.com/jiwoon-ahn/irn))
 
 ## The results of CoEGNET 
-Baiduyun: https://pan.baidu.com/s/19hIlViLbby-a7vQw17ZTVw Fetchcode: f4p3
+Baidu Cloud: https://pan.baidu.com/s/19hIlViLbby-a7vQw17ZTVw Fetchcode: f4p3
 
 Google Cloud: https://drive.google.com/file/d/1AK9UNR5mLHQakOTkRawcKSDg8YwIu-xJ/view?usp=sharing
 
