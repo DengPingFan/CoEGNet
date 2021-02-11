@@ -21,8 +21,6 @@ Baidu Cloud: https://pan.baidu.com/s/19hIlViLbby-a7vQw17ZTVw Fetchcode: f4p3
 
 Google Cloud: https://drive.google.com/file/d/1AK9UNR5mLHQakOTkRawcKSDg8YwIu-xJ/view?usp=sharing
 
-## Instance co-segmentation and co-saliency (extended paper)
-* Here is our extended transaction paper published in TMM https://ieeexplore.ieee.org/abstract/document/9337219/
 
 ## Citation
 If you use this code, please cite our paper:
@@ -34,13 +32,6 @@ If you use this code, please cite our paper:
   year={2020}
 }
 
-@article{li2021image,
-  title={Image Co-saliency Detection and Instance Co-segmentation using Attention Graph Clustering based Graph Convolutional Network},
-  author={Li, Tengpeng and Zhang, Kaihua and Shen, Shiwen and Liu, Bo and Liu, Qingshan and Li, Zhu},
-  journal={IEEE Transactions on Multimedia},
-  year={2021},
-  publisher={IEEE}
-}
 ```
 
 
