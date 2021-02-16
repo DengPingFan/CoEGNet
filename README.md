@@ -25,11 +25,11 @@ Google Cloud: https://drive.google.com/file/d/1AK9UNR5mLHQakOTkRawcKSDg8YwIu-xJ/
 ## Citation
 If you use this code, please cite our paper:
 ```
-@article{deng2020re,
+@article{deng2021re,
   title={Re-thinking co-salient object detection},
   author={Deng-Ping, Fan and Tengpeng, Li and Zheng, Lin and Ge-Peng, Ji and Dingwen, Zhang and Ming-Ming, Cheng and Huazhu, Fu and Jianbing, Shen},
-  journal={arXiv preprint arXiv:2007.03380},
-  year={2020}
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2021}
 }
 
 ```
