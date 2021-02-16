@@ -1,5 +1,5 @@
 # CoEGNet
-Code for "Re-thinking Co-Salient Object Detection" IEEE TPMAI2021
+Code for "Re-thinking Co-Salient Object Detection" IEEE TPAMI2021
 Please refer to our homepage for more details: http://dpfan.net/CoSOD3K/
 ## Pipeline
 ![pipeline](https://github.com/DengPingFan/CoEGNet/blob/master/stage2/figure/pipeline.png)
