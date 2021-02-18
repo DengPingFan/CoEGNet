@@ -29,6 +29,7 @@ If you use this code, please cite our paper:
   title={Re-thinking co-salient object detection},
   author={Deng-Ping, Fan and Tengpeng, Li and Zheng, Lin and Ge-Peng, Ji and Dingwen, Zhang and Ming-Ming, Cheng and Huazhu, Fu and Jianbing, Shen},
   journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  doi={10.1109/TPAMI.2021.3060412}, 
   year={2021}
 }
 
