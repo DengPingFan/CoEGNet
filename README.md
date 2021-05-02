@@ -21,6 +21,8 @@ Baidu Cloud: https://pan.baidu.com/s/19hIlViLbby-a7vQw17ZTVw Fetchcode: f4p3
 
 Google Cloud: https://drive.google.com/file/d/1AK9UNR5mLHQakOTkRawcKSDg8YwIu-xJ/view?usp=sharing
 
+## Tips
+The sub-net of Co-EGNet is our previous version EGNet. Please refer to the training details in: https://github.com/JXingZhao/EGNet
 
 ## Citation
 If you use this code, please cite our paper:
