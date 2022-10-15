@@ -23,6 +23,8 @@ Google Cloud: https://drive.google.com/file/d/1AK9UNR5mLHQakOTkRawcKSDg8YwIu-xJ/
 ## Tips
 The sub-net of Co-EGNet is our previous version EGNet. Please refer to the training details in: https://github.com/JXingZhao/EGNet
 
+##
+CoSOD3K dataset: https://github.com/DengPingFan/CoSOD3K
 ## Citation
 If you use this code, please cite our paper:
 ```
